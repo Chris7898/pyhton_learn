@@ -1,4 +1,4 @@
-import OS
+import os
 
 print(os.getcwd())
 
